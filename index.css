@@ -156,7 +156,7 @@ body .preview-card .author-profil img{
     }
 }
 
-@media screen and (min-width: 375px){
+@media screen and (min-width: 1024px){
     body .preview-card{
         scale: 1;
     }
